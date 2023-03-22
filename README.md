@@ -7,7 +7,7 @@
     </div> 
 <p>Quando a tarefa é criada podemos fazer a edição ou a exclusão da tarefa concluindo que esteja pronta</p>
     <div align="center">
-    <img src="https://user-images.githubusercontent.com/98062615/226927129-1c4fe681-df55-451e-aac2-97de14b3bb7d.png" width="500px">
+    <img src="https://user-images.githubusercontent.com/98062615/226927913-9732274e-d6d2-445d-a5ed-faf725db4fb9.png" width="500px">
     </div> 
 <p>Ao clicarmos em editar a tarefa, é gerado um modal que podemos alterar a tarefa que selecionamos </p>
     <div align="center">
